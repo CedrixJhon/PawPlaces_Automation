@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-13T13:35:19 GMT+08:00" name="Default suite" finished-at="2025-02-13T13:35:36 GMT+08:00" duration-ms="17179">
+  <suite started-at="2025-02-16T23:25:20 GMT+08:00" name="Default suite" finished-at="2025-02-16T23:25:38 GMT+08:00" duration-ms="17654">
     <groups>
     </groups>
-    <test started-at="2025-02-13T13:35:19 GMT+08:00" name="Default test" finished-at="2025-02-13T13:35:36 GMT+08:00" duration-ms="17179">
-      <class name="PawTest_Automation.Login">
-        <test-method signature="LoginTest()[pri:0, instance:PawTest_Automation.Login@77fbd92c]" started-at="2025-02-13T13:35:19 GMT+08:00" name="LoginTest" finished-at="2025-02-13T13:35:36 GMT+08:00" duration-ms="17113" status="PASS">
+    <test started-at="2025-02-16T23:25:20 GMT+08:00" name="Default test" finished-at="2025-02-16T23:25:38 GMT+08:00" duration-ms="17654">
+      <class name="PawTest_Automation.AddProduct">
+        <test-method signature="AddProductItem()[pri:0, instance:PawTest_Automation.AddProduct@77fbd92c]" started-at="2025-02-16T23:25:20 GMT+08:00" name="AddProductItem" finished-at="2025-02-16T23:25:38 GMT+08:00" duration-ms="17551" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginTest -->
-      </class> <!-- PawTest_Automation.Login -->
+        </test-method> <!-- AddProductItem -->
+      </class> <!-- PawTest_Automation.AddProduct -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
