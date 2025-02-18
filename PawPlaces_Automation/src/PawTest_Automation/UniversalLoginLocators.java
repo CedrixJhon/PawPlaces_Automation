@@ -34,5 +34,13 @@ public class UniversalLoginLocators {
 	
 	public static final By SELECTED_SUBCATEGORY = By.xpath("//option[text()='Raw food']");
 	
+	//Click Product Gallery
+	public static final By CLICK_PRODUCT_CATEGORY = By.xpath("//label[@for='multi']");
 	
+	//Click save button
+	public static final By SAVE_BUTTON = By.xpath("//button[contains(text(), 'Save')]");
+	
+	
+
+
 }
